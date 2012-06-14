@@ -1,0 +1,12 @@
+/*
+ *  Core CSS required to use Mobiscroll
+ *= require mobiscroll.core
+ *
+ *  Themes
+ *= require mobiscroll.android-ics
+ *= require mobiscroll.android
+ *= require mobiscroll.ios
+ *= require mobiscroll.jqm
+ *= require mobiscroll.sense-ui
+*/
+
