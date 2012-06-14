@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Mobiscroll::Rails::VERSION
   s.authors     = ["PJ Kelly"]
   s.email       = ["pj@crushlovely.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/crushlovely/mobiscroll-raills"
   s.summary     = "Use Mobiscroll with the Rails 3 asset pipeline."
   s.description = "This gem provides Mobiscroll and all themes provided by default."
 
