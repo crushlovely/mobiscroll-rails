@@ -12,4 +12,3 @@
 //= require mobiscroll.android
 //= require mobiscroll.ios
 //= require mobiscroll.jqm
-//= require mobiscroll.zepto
